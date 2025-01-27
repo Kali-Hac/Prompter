@@ -1,7 +1,7 @@
-# General Skeleton Semantics Learning with Probabilistic Masked Context Reconstruction for Skeleton-Based Person Re-Identification
+# General Skeleton Semantics Learning with Probabilistic Masked Context Reconstruction for 3D Skeleton Based Person Re-Identification
 
 ## Introduction
-This is the implementation of Prompter presented by "General Skeleton Semantics Learning with Probabilistic Masked Context Reconstruction for Skeleton-Based Person Re-Identification".
+This is the implementation of Prompter presented by "General Skeleton Semantics Learning with Probabilistic Masked Context Reconstruction for 3D Skeleton Based Person Re-Identification".
 
 ## Environment
 - Python >= 3.5
